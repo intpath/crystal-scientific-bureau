@@ -1,0 +1,4 @@
+[submodule "intpath/mai_sales_commission_conditional"]
+	path = intpath/mai_sales_commission_conditional
+	url = git@github.com:intpath/mai_sales_commission_conditional.git
+	branch = master
